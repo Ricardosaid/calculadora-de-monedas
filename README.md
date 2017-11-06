@@ -4,4 +4,4 @@ Esta es una calculadora de monedas
 Ricardo said Martínez Santiago
 # Funcionamiento
 Funcionamiento
-![alt text] (pictures/imagen1.jpg "imagen1")
+![alt text](pictures/imagen1.jpg "imagen1")
